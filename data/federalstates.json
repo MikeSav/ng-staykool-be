@@ -1,0 +1,18 @@
+[
+    {"land": "Baden-Württemberg", "url": "baden-wuerttemberg"},
+    {"land": "Bayern", "url": "bayern"},
+    {"land": "Berlin", "url": "berlin"},
+    {"land": "Brandenburg", "url": "brandenburg"},
+    {"land": "Bremen", "url": "bremen"},
+    {"land": "Hamburg", "url": "hamburg"},
+    {"land": "Hessen", "url": "hessen"},
+    {"land": "Mecklenburg-Vorpommern", "url": "mecklenburg-vorpommern"},
+    {"land": "Niedersachsen", "url": "niedersachsen"},
+    {"land": "Nordrhein-Westfalen", "url": "nordrhein-westfalen"},
+    {"land": "Rheinland-Pfalz", "url": "rheinland-pfalz"},
+    {"land": "Saarland", "url": "saarland"},
+    {"land": "Sachsen", "url": "sachsen"},
+    {"land": "Sachsen-Anhalt", "url": "sachsen-Anhalt"},
+    {"land": "Schleswig-Holstein", "url": "schleswig-holstein"},
+    {"land": "Thüringen", "url": "thueringen"}
+]
